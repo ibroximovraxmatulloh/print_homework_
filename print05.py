@@ -1,3 +1,3 @@
 print('   A   ')
-print('  A A  ')
-print(' A A A ')
+print('  B B ')
+print(' C C C ')
